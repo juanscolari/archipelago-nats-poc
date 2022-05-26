@@ -33,7 +33,7 @@
   },
   "dependencies": {
     "@dcl/archipelago": "^1.0.0",
-    "nats": "^2.6.1"
+    "nats": "^2.7.1"
   },
   "files": [
     "dist"
