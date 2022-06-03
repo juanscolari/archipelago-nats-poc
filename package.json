@@ -29,7 +29,7 @@
     "@types/jest": "^27.0.1",
     "jest": "^27.0.6",
     "ts-jest": "^27.0.5",
-    "typescript": "^4.3.5"
+    "typescript": "^4.7.3"
   },
   "dependencies": {
     "@dcl/archipelago": "^1.0.0",
